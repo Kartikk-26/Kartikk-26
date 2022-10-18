@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm KARTIK JAIN</h1>
 <h3 align="center">PROGRAMING STUDENT FROM INDIA</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
 - 🌱 I’m currently learning **C,C++,HTML**
 
 - 📫 How to reach me **kartikjain2626@gmail.com**
