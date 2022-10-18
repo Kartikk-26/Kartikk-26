@@ -1,3 +1,4 @@
+![logo](https://github.com/Kartikk-26/Kartikk-26/blob/main/GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm KARTIK JAIN</h1>
 <h3 align="center">PROGRAMING STUDENT FROM INDIA</h3>
 
