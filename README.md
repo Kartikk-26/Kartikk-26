@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++<br>🌱 I’m currently learning Python.<br>🤝 kartikjain2626@gmail.com<br>💬 Ask me about C , Python.<br>⚡ Fun fact :<br>      Did yo know?? Fortran was the first coding language created by John Backus and his team at IBM in the 1950s.
+🔭 I’m Currently Working On C++<br>🌱 I’m Currently Learning Python.<br>🤝 kartikjain2626@gmail.com<br>💬 Ask Me About C , Python.<br>⚡ Fun Fact :<br>      Did yo know?? Fortran Was The First Coding Language Created By John Backus And His Team At IBM In The 1950s.
 
 
 ## 🌐 Socials:
