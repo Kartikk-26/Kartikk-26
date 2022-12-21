@@ -1,5 +1,5 @@
 <h1 align="center">Hey🤝, I'm Kartik Jain</h1>
-<h3 align="center">I'm Not A Great Programmer; I'm Just A Good Programmer With Great Habits. </h3>
+<h3 align="center">"The Only Way To Learn A New Programming Language Is By Writing Programs In It." </h3>
 
 
 # 💫 About Me:
