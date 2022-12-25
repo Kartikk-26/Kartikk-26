@@ -30,9 +30,7 @@ Skills: Python / C / HTML / C++
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=graywhite&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kartikk-26&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![GitHub metrics](https://metrics.lecoq.io/Kartikk-26)  
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
