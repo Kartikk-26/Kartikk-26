@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img height="300" width="650" src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif">
+  <img height="400" width="650" src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif">
 </p>
 
 ---
