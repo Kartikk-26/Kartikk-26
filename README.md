@@ -4,6 +4,10 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+front+end+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate front end developer from India." />
+</p>
+
 <br/>
 <br/>
 
@@ -21,6 +25,37 @@
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=dark&hide_border=true"/>
 </p>
+
+#
+<p align="center" style='margin: 16px 4px 16px;'>
+    <a href="https://twitter.com/kartikk_26" target="blank">
+        <img src="https://img.shields.io/twitter/follow/kartikk_26?logo=twitter&style=for-the-badge" alt="twitter followers" />
+    </a>
+</p>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="https://twitter.com/kartikk_26" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/kartikk_26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="mailto:kartikjain2626@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:kartikjain2626@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/kartik-jain-473ab81b2/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/kartik-jain-473ab81b2/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+  <a href="https://github.com/Kartikk-26" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/Kartikk-26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+  <a href="https://www.codechef.com/users/kartikjain26" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codechef.com/users/kartikjain26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
 
 #
 
