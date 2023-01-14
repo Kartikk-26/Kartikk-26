@@ -94,7 +94,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kartikk-26&bg_color=000000&show_icons=true&hide_border=true&title_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&bg_color=000000&title_color=94b4a4&langs_count=15&hide_border=true" />
+    <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 </details>
 <br/>
