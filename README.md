@@ -93,14 +93,14 @@
 
 <p align="center">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kartikk-26&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img align="left" height="170px" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img align="left" height="155px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 </details>
 <br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Kartikk-26&theme=react-dark&hide_border=true&area=true)
 
-<h4 align="center">
+<div align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -123,10 +123,8 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-
-</h4>  
   
-
+</div>
 
 
 
