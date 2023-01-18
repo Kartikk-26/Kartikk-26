@@ -93,7 +93,7 @@
 
 <p align="center">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kartikk-26&bg_color=000000&show_icons=true&hide_border=true&title_private=true&include_all_commits=true"/>
-    <img align="left" height="135px" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img align="left" height="155px" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 </details>
 <br/>
