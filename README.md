@@ -1,42 +1,23 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg">
+ 
+  𝐇ello,&lt;Coder's/&gt;!
+
 </h1>
-
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+Passionate+Frontend+Developer+From+India" alt="Welcome to my GitHub Profile. I am a passionate front end developer from India." />
+<p align='center' style='margin: 14px 11px 9px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+full+stack+developer+from+India" alt="Welcome to my GitHub Profile. I am a Fullstack Developer from India." />
 </p>
 
-<br/>
-<br/>
 
-<img align="right" height="245" width="400" alt="GIF" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"/>
+<img align="right"  height="251" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"/>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Front End 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Html,Css 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 project for **C,C++,Python.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Kartikk-26) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙...
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+# 💫 About Me:
+🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Front End 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.<br>👯 I’m looking to collaborate on projects related to C,C++,Python<br>🤝 I’m looking for help with Web developement<br>🌱 I’m currently learning Java <br>💬 Ask me about logic building and learning <br>⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
 
 
-<p align="center">
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=dark&hide_border=true"/>
-</p>
-
-#
-<p align="center" style='margin: 16px 4px 16px;'>
-    <a href="https://twitter.com/kartikk_26" target="blank">
-        <img src="https://img.shields.io/twitter/follow/kartikk_26?logo=twitter&style=for-the-badge" alt="twitter followers" />
-    </a>
-</p>
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
+## 🌐 Let's Connect and have a Chat!💬 :
 </h3>
-<p align="center" style='margin: 16px 4px 8px;'>
+<p align="left" style='margin: 16px 4px 8px;'>
     <a href="https://twitter.com/kartikk_26" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/kartikk_26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
@@ -84,23 +65,22 @@
 
 #
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-
+ <h1>Github Stats ⚡:</h1>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Kartikk-26&theme=swift&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&layout=compact&theme=swift&count_private=true&hide_border=true)</a>
 <p align="center">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kartikk-26&theme=dark&show_icons=true&locale=en"/>
-    <img align="left" height="155px" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=swift&hide_border=true"/>
 </p>
-</details>
-<br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Kartikk-26&theme=react-dark&hide_border=true&area=true)
 
-<div align="center">
+<a href="https://github.com/Manas-tech/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kartikk-26&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+<h4 align="center">
+
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
