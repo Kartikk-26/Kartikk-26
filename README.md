@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="right"  height="251" width="400" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674742293510/b726a047-e9f9-45a4-97e0-365dbadb318c.jpeg"/>
+<img align="right"  height="251" width="400" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1630094368745-GB8NVYEVVHB2UKX8Y3FU/final+with+character+in+window.gif?format=2500w"/>
 
 # 💫 About Me:
 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Front End 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.<br>👯 I’m looking to collaborate on projects related to C,C++,Python<br>🤝 I’m looking for help with Web developement<br>🌱 I’m currently learning Java <br>💬 Ask me about logic building and learning <br>⚡ Fun fact "'𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜"
