@@ -37,7 +37,7 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codechef.com/users/kartikjain26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 </a>
-     <a href="https://auth.geeksforgeeks.org/user/kartikjain26/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="kartikjain26" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+     <a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="kartikjain26" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>    
 
 #
