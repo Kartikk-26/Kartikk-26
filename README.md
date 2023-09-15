@@ -11,7 +11,7 @@
 
 <img align="right"  height="271" width="400" alt="GIF" src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif"/>
 
-# 💫 About Me:
+# 💫 About Me :
 🔭 Currently immersed in Front End Development.<br>👯 Open to collaborating on projects involving C, C++, and Python.<br>🤝 Seeking assistance with Web Development.<br>🌱 Actively exploring the world of Java. <br>💬 Feel free to inquire about logic building and continuous learning.<br>⚡ Fun fact: "The best part of the journey is: It Ends."
 
 
