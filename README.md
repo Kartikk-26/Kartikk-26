@@ -78,8 +78,7 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&layout=compact&theme=swift&count_private=true&hide_border=true)</a>
 <p align="center">
   
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=swift&hide_border=true"/>
-</p>
+
 
 
 <a href="https://github.com/Manas-tech/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kartikk-26&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
