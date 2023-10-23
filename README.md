@@ -1,5 +1,6 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg">
+ 
+[![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
  
   𝐇ello,&lt;Coder's/&gt;!
 
