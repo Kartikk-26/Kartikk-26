@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello-World...+👋,+This+is+Kartik;(+KJ....!+);An+Open+Source+Contributor+☀;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
 </p>
+</h1>
+<h2 align="center">I'm a Student, Learner, Developer !!</h2>
 
 
 <img align="right"  height="271" width="400" alt="GIF" src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gif"/>
