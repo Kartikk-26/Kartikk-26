@@ -1,12 +1,7 @@
 <h1 align="center">
- 
-[![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
- 
-  𝐇ello,&lt;Coder's/&gt;!
-
-</h1>
-<p align='center' style='margin: 14px 11px 9px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+full+stack+developer+from+India" alt="Welcome to My GitHub Profile. I am a Fullstack Developer from India." />
+<img align="center" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello-World...+👋,+This+is+Kartik;(+KJ....!+);An+Open+Source+Contributor+☀;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
 </p>
 
 
