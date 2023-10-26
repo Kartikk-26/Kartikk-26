@@ -1,6 +1,5 @@
 [![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
 <h1 align="center">
-<img align="center" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&height=70&lines=Hello-World...+👋,+This+is+Kartik;(+KJ....!+);An+Open+Source+Contributor+☀;Programmer+💻;Developer+📱;Problem+Solver+🕵;">
 </p>
