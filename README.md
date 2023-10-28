@@ -79,7 +79,7 @@
 
 
 
-<a href="https://github.com/Manas-tech/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kartikk-26&bg_color=000000&color=F8D666&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<p align = "center"><a href="https://github.com/Kartikk-26/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kartikk-26&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></a></p>
 
 
 
