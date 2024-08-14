@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-
+  
 [![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
 
 <h1 align="center">
