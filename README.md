@@ -57,7 +57,7 @@
 
 <br/>  
 
-## My Skill Set  
+##  💪 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -102,7 +102,7 @@
 
 <br/>
 
-## Connect With Me :   
+## 🌟 Connect With Me :   
 <div align="center">
 <a href="https://github.com/Kartikk-26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -128,7 +128,7 @@
 
 <br/> 
 
-## Github Stats :
+## ⚡️ Github Stats :
 
 <a href="https://github.com/Kartikk-26">
   <a href="https://git.io/streak-stats">
