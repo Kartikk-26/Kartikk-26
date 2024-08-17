@@ -39,7 +39,6 @@
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed">
 </p>
 
-
 ### <div align="center">I'm Kartik Jain, a DevOps Enthusiast. 👨‍💻</div>  
   
 
