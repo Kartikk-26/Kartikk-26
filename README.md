@@ -138,9 +138,6 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk-26&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kartikk-26&limit=5&theme=highcontrast&layout=donut&show_icons=true&combine_all_yearly_contributions=true)
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Kartikk-26&&style=flat-square" align="center" />
 </div>  
