@@ -138,11 +138,19 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk-26&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
 
 <br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Kartikk-26&&style=plastic" align="center" />  
+</div>
+
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kartikk-26&&style=flat-square" align="center" />
-</div>  
-  
+
+![Static Badge](https://img.shields.io/badge/Thanks%20For%20Visiting!-05122A)
+![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20Some%20Of%20The%20Repositories%20If%20You%20Find%20Helpful!%20-05122A)
+![GitHub Followers](https://img.shields.io/github/followers/Kartikk-26?style=flat&logo=github&color=05122A&labelColor=05122A&label=Followers)  
+
+</div>
 
 <br/>  
 
