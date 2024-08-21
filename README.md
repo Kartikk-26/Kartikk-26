@@ -67,7 +67,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-%23009700.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -111,8 +111,9 @@
   <img src="https://img.shields.io/badge/codechef-%23B9C3B7.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef" style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/kartik__j26/" target="_blank">
-  <img src="https://img.shields.io/badge/leetcode-%23F9B938.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://codolio.com/profile/kartik__j26" target="_blank">
 <img src=https://img.shields.io/badge/codolio-%23000000.svg?&style=for-the-badge&logo=codio&logoColor=white alt=Codolio style="margin-bottom: 5px;" />
 </a>
