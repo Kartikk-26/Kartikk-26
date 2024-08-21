@@ -40,7 +40,7 @@
 - ❓ Ask me about anything related to DevOps, Web Development, Problem Solving, Competetive Coding :)  
   
 
-- ⚡ Fun fact: Every Bug is a Hidden Opportunity for Growth.  
+- ⚡ Fun fact: Everytime I do a git pull & there is a conflict.  
   
 
 <br/>  
