@@ -11,29 +11,18 @@
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://twitter.com/kartikk_26" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/kartikk_26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="https://twitter.com/kartikk_26" />
+    </a>
+    <a href="https://www.linkedin.com/in/-kartikjain/" target="blank" rel="noreferrer">
+        <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/-kartikjain/>
     </a>
     <a href="mailto:kartikjain2626@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:kartikjain2626@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mailto:kartikjain2626@gmail.com" />
     </a>
-    <a href="https://www.linkedin.com/in/kartik-jain-473ab81b2/" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/kartik-jain-473ab81b2/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.instagram.com/edits.kartikk" target="blank" rel="noreferrer">
+        <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/edits.kartikk"/>
     </a>
-    <a href="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/kartik__j26?igshid=YmMyMTA2M2Y=" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-  <a href="https://github.com/Kartikk-26" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/Kartikk-26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-  <a href="https://www.codechef.com/users/kartikjain26" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="https://www.codechef.com/users/kartikjain26" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-</a>
-     <a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="kartikjain26" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
-      
-</a>
-     <a href="https://leetcode.com/kartik__j26/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="kartikjain26" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
-     </p>
+</p>
 
 <p align="center">
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed">
@@ -56,52 +45,49 @@
 
 <br/>  
 
-##  💪 My Skill Set  
-<table><tr><td valign="top" width="33%">
+##  💼 Technical Skills  
 
-### Frontend  
-<div align="center">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>    
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="45" /></a> 
-<br>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="45" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="45" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="45" /></a>   
-</div>
-
-</td><td valign="top" width="33%">
+### Frontend : 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="45" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a> 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="45" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>    
-</div>
-
-</td><td valign="top" width="33%">
+</td><td valign="top" width="28%">
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="45" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a>
-<a href="https://www.kali.org/" target="_blank"><img style ="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" height="50"/></a>  
-</div>
+### Backend : 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-%23009700.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+</td><td valign="top" width="31%">
+
+
+
+### DevOps : 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 
 </td></tr></table>  
 
 <br/>
 
-## 🌟 Connect With Me :   
+## 🤝 Connect With Me :   
 <div align="center">
 <a href="https://github.com/Kartikk-26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -118,9 +104,20 @@
 <a href="https://www.instagram.com/edits.kartikk" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="_blank">
+  <img src="https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=Green" alt="Geeksforgeeks" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.codechef.com/users/kartikjain26" target="_blank">
+  <img src="https://img.shields.io/badge/codechef-%23B9C3B7.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef" style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/kartik__j26/" target="_blank">
+  <img src="https://img.shields.io/badge/leetcode-%23F9B938.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
 <a href="https://codolio.com/profile/kartik__j26" target="_blank">
 <img src=https://img.shields.io/badge/codolio-%23000000.svg?&style=for-the-badge&logo=codio&logoColor=white alt=Codolio style="margin-bottom: 5px;" />
 </a>
+
+
   
 </div>  
   
@@ -156,4 +153,7 @@
 
 
 <br />
+
+
+
 
