@@ -148,6 +148,8 @@
 <br/> 
 <hr />
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhavgoyal2510&label=Profile%20views&color=0e75b6&style=plastic" alt="vaibhavgoyal2510" /> </p>
+
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20For%20Visiting!-05122A)
