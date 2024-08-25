@@ -142,7 +142,10 @@
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=highcontrast&hide_border=true">
 
 </div><br>
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk-26&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
 
+<br/> 
 <hr />
 
 <div align="center">
