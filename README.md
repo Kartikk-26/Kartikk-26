@@ -148,7 +148,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Thanks%20For%20Visiting!-05122A" alt="Thanks For Visiting!" width="200" height='32'>
-<img src="https://img.shields.io/badge/Star%20%E2%AD%90%20Some%20Of%20The%20Repositories%20If%20You%20Find%20Helpful!%20-05122A" alt="Star Repositories" width="390" height='32'>
+<img src="https://img.shields.io/badge/Star%20%E2%AD%90%20Some%20Of%20The%20Repositories%20If%20You%20Find%20Helpful!%20-05122A" alt="Star Repositories" width="420" height='32'>
 <img src="https://img.shields.io/github/followers/Kartikk-26?style=flat&logo=github&color=05122A&labelColor=05122A&label=Followers" alt="GitHub Followers" width="170" height='32'>
 
 
