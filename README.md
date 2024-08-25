@@ -16,9 +16,9 @@
     <a href="https://www.linkedin.com/in/-kartikjain/" target="blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/-kartikjain/>
     </a>
-    <a href="mailto:kartikjain2626@gmail.com" target="blank" rel="noreferrer">
-        <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mailto:kartikjain2626@gmail.com" />
-    </a>
+    <a href="mailto:kartikjain2626@gmail.com" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mailto:kartikjain2626@gmail.com" />
+</a>
     <a href="https://www.instagram.com/edits.kartikk" target="blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/edits.kartikk"/>
     </a>
@@ -45,7 +45,12 @@
 
 <br/>  
 
-##  💼 Technical Skills :   
+<h1>
+  <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="50" height="45" style="vertical-align: middle;"/> 
+  Tools & Technology :
+</h1>
+
+  
 
 ### 💡 Frontend : 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -87,7 +92,7 @@
 
 <br/>
 
-## 🤝 Let's Connect and Collaborate :   
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect & Collaborate! </h1>  
 <div align="center">
 <a href="https://github.com/Kartikk-26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -125,22 +130,23 @@
 
 <br/> 
 
-## ⚡️ GitHub Stats :
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />GitHub Stats : </h1>   
 
-<a href="https://github.com/Kartikk-26">
-  <a href="https://git.io/streak-stats">
-  <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kartikk-26&theme=highcontrast&show_icons=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&theme=highcontrast&layout=donut&show_icons=true" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Kartikk-26&theme=highcontrast&show_icns=true" /></a></p>
-  <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk-26&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
-
-<br/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Kartikk-26&&style=plastic" align="center" />  
-</div>
 
-<br/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartikk-26&theme=highcontrast">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kartikk-26&theme=highcontrast">
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav-kesarwani&theme=highcontrast"> -->
+<img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Kartikk-26&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kartikk-26&theme=highcontrast">
+<!-- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=highcontrast&utcOffset=24"> -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk-26&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kartikk-26&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false">
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikk-26&theme=highcontrast&hide_border=true">
+
+</div><br>
+
+<hr />
 
 <div align="center">
 
@@ -148,13 +154,6 @@
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20Some%20Of%20The%20Repositories%20If%20You%20Find%20Helpful!%20-05122A)
 ![GitHub Followers](https://img.shields.io/github/followers/Kartikk-26?style=flat&logo=github&color=05122A&labelColor=05122A&label=Followers)  
 
-</div>
+</div> 
 
-<br/>  
-
-
-<br />
-
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
