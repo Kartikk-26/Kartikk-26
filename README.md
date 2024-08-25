@@ -45,10 +45,7 @@
 
 <br/>  
 
-<h1>
-  <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="50" height="45" style="vertical-align: middle;"/> 
-  Tools & Technology :
-</h1>
+## 🛠️ Tools & Technology
 
   
 
@@ -92,7 +89,7 @@
 
 <br/>
 
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect & Collaborate! </h1>  
+## 🌟 Let's Connect & Collaborate!
 <div align="center">
 <a href="https://github.com/Kartikk-26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -130,7 +127,7 @@
 
 <br/> 
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />GitHub Stats : </h1>   
+## ⚡ GitHub Stats :    
 
 <div align="center">
 
@@ -150,9 +147,10 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/Thanks%20For%20Visiting!-05122A)
-![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20Some%20Of%20The%20Repositories%20If%20You%20Find%20Helpful!%20-05122A)
-![GitHub Followers](https://img.shields.io/github/followers/Kartikk-26?style=flat&logo=github&color=05122A&labelColor=05122A&label=Followers)  
+<img src="https://img.shields.io/badge/Thanks%20For%20Visiting!-05122A" alt="Thanks For Visiting!" width="200" height='32'>
+<img src="https://img.shields.io/badge/Star%20%E2%AD%90%20Some%20Of%20The%20Repositories%20If%20You%20Find%20Helpful!%20-05122A" alt="Star Repositories" width="390" height='32'>
+<img src="https://img.shields.io/github/followers/Kartikk-26?style=flat&logo=github&color=05122A&labelColor=05122A&label=Followers" alt="GitHub Followers" width="170" height='32'>
+
 
 </div> 
 
