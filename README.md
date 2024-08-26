@@ -10,15 +10,15 @@
 
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://twitter.com/kartikk_26" target="blank" rel="noreferrer">
+  <a href="https://twitter.com/kartikk_26" target="blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="https://twitter.com/kartikk_26" />
+    </a>
+  <a href="mailto:kartikjain2626@gmail.com?subject=Hello%20Kartik,%20From%20Github" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" />
     </a>
     <a href="https://www.linkedin.com/in/-kartikjain/" target="blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/-kartikjain/>
     </a>
-    <a href="mailto:kartikjain2626@gmail.com" rel="noreferrer">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="mailto:kartikjain2626@gmail.com" />
-</a>
     <a href="https://www.instagram.com/edits.kartikk" target="blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/edits.kartikk"/>
     </a>
