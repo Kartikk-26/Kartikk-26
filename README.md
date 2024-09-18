@@ -146,7 +146,8 @@
 
 </div><br>
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk-26&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk-26&bg_color=000000&color=ffe066&line=ffd700&point=ff5722&area=true&area_color=222222&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+
 
 <br/> 
 <hr />
