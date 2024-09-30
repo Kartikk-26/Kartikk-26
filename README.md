@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=random&text=Dream,%20Develop,%20Deliver!&height=100&section=header&fontSize=40&fontColor=ffffff" alt="Dream, Develop, Deliver!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dream,%20Develop,%20Deliver!&height=100&section=header&fontSize=40&fontColor=ffffff" alt="Dream, Develop, Deliver!" />
+
   
 
 </p>
