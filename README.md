@@ -80,6 +80,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
@@ -95,6 +96,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 </td></tr></table>  
@@ -106,6 +108,15 @@
 <a href="https://github.com/Kartikk-26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://leetcode.com/kartik__j26/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin-bottom: 5px;" />
+</a> 
+<a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="_blank">
+  <img src="https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=Green" alt="Geeksforgeeks" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.codechef.com/users/kartikjain26" target="_blank">
+  <img src="https://img.shields.io/badge/codechef-brown.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef" style="margin-bottom: 5px;" />
+</a> 
 <a href="https://dev.to/kartikk26" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
@@ -118,18 +129,8 @@
 <a href="https://www.instagram.com/edits.kartikk" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="_blank">
-  <img src="https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=Green" alt="Geeksforgeeks" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.codechef.com/users/kartikjain26" target="_blank">
-  <img src="https://img.shields.io/badge/codechef-brown.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef" style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/kartik__j26/" target="_blank">
-  <img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://codolio.com/profile/kartik__j26" target="_blank">
-<img src=https://img.shields.io/badge/codolio-%23000000.svg?&style=for-the-badge&logo=codio&logoColor=white alt=Codolio style="margin-bottom: 5px;" />
+<a href="https://www.hackerrank.com/profile/kartikjain2626" target="_blank">
+  <img src="https://img.shields.io/badge/hackerrank-005B36.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
 </a>
 
 
