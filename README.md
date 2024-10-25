@@ -3,7 +3,7 @@
 
   
 
-</p>
+</p> 
   
 [![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
 
