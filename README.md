@@ -106,8 +106,8 @@
 <a href="https://github.com/Kartikk-26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://leetcode.com/kartik__j26/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin-bottom: 5px;" />
+<a href="https://developer.kartik.sbs/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
 </a> 
 <a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="_blank">
   <img src="https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=Green" alt="Geeksforgeeks" style="margin-bottom: 5px;" />
