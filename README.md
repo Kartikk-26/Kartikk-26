@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dream,%20Develop,%20Deliver!&height=100&section=header&fontSize=40&fontColor=ffffff" alt="Dream, Develop, Deliver!" />
 
-   
+    
 </p> 
   
 [![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
