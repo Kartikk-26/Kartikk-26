@@ -11,20 +11,24 @@
 </h1>                       
               
 </h3>      
-<p align="center" style='margin: 16px 4px 8px;'>   
+<p align="center" style="margin: 16px 4px 8px;">
   <a href="https://twitter.com/kartikk_26" target="_blank" rel="noreferrer">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon" height="42" style="margin: 4px;" />
   </a>
-  <a href="mailto:kartikjain2626@gmail.com?subject=Hello%20Kartik,%20From%20Github" rel="noreferrer">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" />
+  <a href="mailto:kartikjain2626@gmail.com?subject=Hello%20Kartik,%20From%20Github" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" height="42" style="margin: 4px;" />
   </a>
   <a href="https://www.linkedin.com/in/-kartikjain/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" height="42" style="margin: 4px;" />
   </a>
   <a href="https://www.instagram.com/edits.kartikk" target="_blank" rel="noreferrer">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon" height="42" style="margin: 4px;" />
+  </a>
+  <a href="https://www.tech.kartik.sbs/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Icon" height="42" style="margin: 4px;" />
   </a>
 </p>
+
 
     
 </p>
@@ -54,7 +58,23 @@
 
 ---
 
-### 🌩️ DevOps :
+<details open>
+<summary><b>🤖 LLMs & AI Agents</b></summary>
+<br>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-101010?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+
+</details>
+
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F7E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -70,34 +90,40 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+</details>
 
-### 💡 Frontend :
+<details open>
+<summary><b>💡 Frontend</b></summary>
+<br>
+
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
----
+</details>
 
-### 🔧 Backend :
+<details open>
+<summary><b>🔧 Backend</b></summary>
+<br>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-%23009700.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST_API-%23f7f7f7.svg?style=for-the-badge&logo=api&logoColor=black)
 
-
+</details>
 
 <br/>  
 
