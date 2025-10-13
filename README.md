@@ -56,10 +56,9 @@
 
 ## 🛠️ Tools & Technology
 
----
 
 <details open>
-<summary><b>🤖 LLMs & AI Agents</b></summary>
+<summary><span style="font-size:16px"><b>🤖 LLMs & AI Agents</b></summary>
 <br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -72,7 +71,7 @@
 
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><span style="font-size:16px"><b>☁️ Cloud & DevOps</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -93,7 +92,7 @@
 </details>
 
 <details open>
-<summary><b>💡 Frontend</b></summary>
+<summary><span style="font-size:16px"><b>💡 Frontend&#8201;&#8201;&#8201;&#8201;</b></span></summary>
 <br>
 
 
@@ -107,7 +106,7 @@
 </details>
 
 <details open>
-<summary><b>🔧 Backend</b></summary>
+<summary><span style="font-size:16px"><b>🔧 Backend&#8201;&#8201;&#8201;</b></span></summary>
 <br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -125,7 +124,7 @@
 
 </details>
 
-<br/>  
+<br>  
 
 ## 🌟 Let's Connect & Collaborate!
 <div align="center">
