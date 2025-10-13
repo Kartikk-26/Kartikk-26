@@ -10,7 +10,7 @@
   Let's Connect and have a Chat!💬                                                      
 </h1>                       
               
-</h3>     
+</h3>      
 <p align="center" style='margin: 16px 4px 8px;'>   
   <a href="https://twitter.com/kartikk_26" target="_blank" rel="noreferrer">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon" />
