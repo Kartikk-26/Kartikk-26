@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/edits.kartikk" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon" height="42" style="margin: 4px;" />
   </a>
-  <a href="https://www.tech.kartik.sbs/" target="_blank" rel="noreferrer">
+  <a href="https://dev.kartik.sbs/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Icon" height="42" style="margin: 4px;" />
   </a>
 </p>
@@ -130,7 +130,7 @@
 <a href="https://github.com/Kartikk-26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://developer.kartik.sbs/" target="_blank">
+<a href="https://dev.kartik.sbs/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
 </a> 
 <a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="_blank">
