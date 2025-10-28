@@ -184,6 +184,46 @@
 <br/> 
 <hr />
 
+<br>
+
+## 💡 What I'm Up To
+
+```mermaid
+%%{init: {'theme':'default', 'themeVariables': { 
+  'primaryColor':'#8B5CF6', 
+  'primaryTextColor':'#FFFFFF', 
+  'primaryBorderColor':'#7C3AED', 
+  'lineColor':'#A78BFA', 
+  'secondaryColor':'#5EEAD4', 
+  'tertiaryColor':'#99F6E4', 
+  'background':'#F8FAFC', 
+  'mainBkg':'#8B5CF6', 
+  'secondBkg':'#5EEAD4', 
+  'tertiaryBkg':'#A78BFA'
+}}}%%
+mindmap
+  root((Kartik’s Techverse))
+    DevOps Engineering
+      CI/CD Pipelines
+      Infrastructure as Code
+      Docker & Kubernetes
+      Cloud Deployment (AWS, Vercel)
+      Monitoring & Automation
+    GenAI Backend
+      LLM Integrations
+      API Workflows
+      Prompt Engineering
+      AI-Powered Tools
+    Learning
+      System Design
+      MLOps & AIOps
+      Scalable Architectures
+      Open Source Projects
+
+```
+
+<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kartikk-26&label=Profile%20views&color=0e75b6&style=plastic" alt="vaibhavgoyal2510" /> </p>
 
 <div align="center">
