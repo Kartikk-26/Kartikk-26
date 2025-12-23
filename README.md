@@ -13,7 +13,7 @@
 </h3>      
 <p align="center" style="margin: 16px 4px 8px;">
   <a href="https://twitter.com/kartikk_26" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon" height="42" style="margin: 4px;" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon" height="42" style="margin: 4px;" /> 
   </a>
   <a href="mailto:kartikjain2626@gmail.com?subject=Hello%20Kartik,%20From%20Github" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" height="42" style="margin: 4px;" />
