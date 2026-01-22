@@ -7,7 +7,7 @@
 [![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
     
 <h1 align="center">                                  
-  Let's Connect and have a Chat!💬                                                                                  
+  Let's Connect and have a Chat!💬                                                                                   
 </h1>                                               
                            
 </h3>       
