@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/edits.kartikk" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon" height="42" style="margin: 4px;" />
   </a>
-  <a href="https://dev.kartik.sbs/" target="_blank" rel="noreferrer">
+  <a href="https://kartikjain.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio Icon" height="42" style="margin: 4px;" />
   </a>
 </p>
