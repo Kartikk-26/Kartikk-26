@@ -7,7 +7,7 @@
 [![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
     
 <h1 align="center">                                                
-</h1>                                                               
+</h1>                                                                
                                   
 </h3>          
 <p align="center" style="margin: 16px 4px 8px;">  
