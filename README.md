@@ -20,13 +20,19 @@
 
 ## Kartik Jain
 
-**DevOps & AI Engineer · Founder, [Veergati Space](https://veergati.space)**
+<!-- keep this ONE line and plain text: a hyperlink here renders blue+underlined
+     and the extra width wraps it onto two lines on a phone. ~45 chars is the
+     mobile limit at this font size. -->
+**DevOps & AI Engineer · Building Veergati**
 
-[![Veergati](https://img.shields.io/badge/Veergati-veergati.space-FF9933?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://veergati.space)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikjain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-kartikjain/)
+<!-- LinkedIn's logo is passed as a base64 data URI on purpose: simple-icons
+     dropped the LinkedIn glyph (trademark), so `logo=linkedin` silently renders
+     a badge with NO icon. Every logo here is verified to embed an <image>. -->
+[![Veergati](https://img.shields.io/badge/Veergati-veergati.space-FF9933?style=for-the-badge&logo=googlechrome&logoColor=white)](https://veergati.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikjain-0A66C2?style=for-the-badge&logo=data:image/svg+xml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=&logoColor=white)](https://www.linkedin.com/in/-kartikjain/)
 [![Twitter](https://img.shields.io/badge/Twitter-kartikk__26-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kartikk_26)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-kartikjain.vercel.app-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://kartikjain.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-kartikjain2626-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikjain2626@gmail.com?subject=Hello%20Kartik,%20From%20Github)
+[![Instagram](https://img.shields.io/badge/Instagram-edits.kartikk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edits.kartikk)
 
 <br>
 
