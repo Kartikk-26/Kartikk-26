@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Kartik Jain — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Kartik Jain — focus, stack, highlights" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Kartik Jain — role, stack, highlights" /></td>
 </tr>
 </table>
 
@@ -21,7 +21,7 @@
 [![Veergati](https://img.shields.io/badge/Veergati-veergati.space-FF9933?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://veergati.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikjain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-kartikjain/)
 [![Twitter](https://img.shields.io/badge/Twitter-kartikk__26-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kartikk_26)
-[![Instagram](https://img.shields.io/badge/Instagram-edits.kartikk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edits.kartikk)
+[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-kartikjain.vercel.app-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://kartikjain.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-kartikjain2626-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikjain2626@gmail.com?subject=Hello%20Kartik,%20From%20Github)
 
 <br>
@@ -29,194 +29,5 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 <img src="./contrib-heatmap.svg" width="860" alt="Kartik's GitHub contribution graph — auto-refreshed daily" />
-
-</div>
-
----
-
-## 🇮🇳 Veergati — Honouring India's Brave Soldiers
-
-I'm the founder of **[Veergati Space](https://veergati.space)**, a digital memorial to the soldiers and
-officers of the Indian Armed Forces who gave everything for the nation.
-
-Veergati remembers each of them on **their own day** — the day they were born, and the day they became
-immortal — through a daily **Wall of Honour**, verified biographies, a remembrance calendar, and an AI
-assistant. Building it is my responsibility towards the nation.
-
-> **[The story behind it →](https://veergati.space/founder)**
-
-Under the hood: **Next.js · FastAPI · PostgreSQL · Docker · Kubernetes · Jenkins**, with an automated
-daily pipeline that ingests, validates, enriches and publishes soldier profiles from trusted sources
-to the Wall of Honour.
-
----
-
-## 👨‍💻 About Me
-
-By profession I'm a **DevOps & AI Engineer**. I automate deployment pipelines, manage cloud
-infrastructure and keep systems scalable with **Linux, Docker, Kubernetes, Ansible, Jenkins and AWS**.
-I'm also a full-stack developer (**MERN + Next.js**) who bakes DevOps practices in from the start.
-
-- 🔭 Building **Veergati Space** — a national remembrance mission
-- 💼 **Software Engineer @ KVGAI Tech** — AI platforms, microservices, cloud infra
-- 🤖 **Core Team, Anthropic Claude Builders Club** @ BITS Pilani
-- 🎓 Pursuing a degree in **Computer Science Engineering**
-- 🏆 **Hacktoberfest 2025 Super Contributor** · 2★ CodeChef · 3★ HackerRank
-- ❓ Ask me about **DevOps, Cloud, AI Agents, Problem Solving**
-- ⚡ Fun fact: every time I `git pull`, there is a conflict
-
----
-
-## 💼 Experience
-
-**Founder & Lead Engineer** — *Veergati Space* · Nov 2025 – Present
-- Lead product vision, architecture, development, deployment, infrastructure and long-term platform strategy
-- Architected a production-grade platform (Next.js, FastAPI, PostgreSQL, Docker, Kubernetes) for a scalable, highly available digital memorial
-- Built CI/CD pipelines with Jenkins for continuous integration, testing and zero-downtime deployments
-- Engineered async FastAPI services with optimized PostgreSQL queries and production-ready REST APIs
-- Orchestrated multi-stage Docker builds on Kubernetes with health checks, autoscaling and rolling deployments
-
-**Software Engineer** — *KVGAI Tech* · Aug 2025 – Present
-- Architected and deployed **Civic-Info**, a 3-service FastAPI microservices system serving U.S. elected-official data nationwide (JWT/OTP auth, WebSocket discussions, Shapely geo district lookup)
-- Engineered the AI automation pipeline end-to-end — scraping/ETL on Supabase/PostgreSQL with 3-tier Redis caching, Kafka messaging, and Gemini for auto-generated bios and news summaries
-- Built a production AI agent on Google Cloud Gemini wired to a Cloud Run MCP tools layer, Supabase and Vertex AI RAG — grounded, source-cited answers, no hallucinations
-- Delivered a **Claude + Neo4j knowledge-graph engine (Graphiti)** with caching that cut LLM costs **40–60%**; presented agentic protocols (MCP, A2A, Agent-to-UI) to 150+ BITS Pilani students
-- Dockerized and deployed **Smart Paper Check** (FastAPI + Celery + Redis, multi-LLM) on AWS/Railway/GCP — **10–50× speedups** via N+1 fixes and multi-worker scaling
-
-**Software Engineer Intern** — *BITS Pilani* · Apr 2025 – Aug 2025
-- Built the backend for an AI sales-funnel product that auto-generates product images and a complete landing page from product details
-- Integrated a payment gateway with automatic inventory deduction and reseller settlement — an end-to-end checkout flow
-- Deployed to production on GCP and AWS
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-101010?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💻 Frontend Development</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-</details>
-
----
-
-## 💡 What I'm Up To
-
-```mermaid
-%%{init: {'theme':'default', 'themeVariables': {
-  'primaryColor':'#8B5CF6',
-  'primaryTextColor':'#FFFFFF',
-  'primaryBorderColor':'#7C3AED',
-  'lineColor':'#A78BFA',
-  'secondaryColor':'#5EEAD4',
-  'tertiaryColor':'#99F6E4',
-  'background':'#F8FAFC',
-  'mainBkg':'#8B5CF6',
-  'secondBkg':'#5EEAD4',
-  'tertiaryBkg':'#A78BFA'
-}}}%%
-mindmap
-  root((Kartik's Techverse))
-    Veergati Space
-      Wall of Honour
-      Daily Data Pipeline
-      Verified Biographies
-      AI Assistant
-    DevOps Engineering
-      CI/CD with Jenkins
-      Docker & Kubernetes
-      Linux, Ansible, HAProxy
-      AWS (EC2, VPC, S3, Route 53)
-      Monitoring & Autoscaling
-    AI Engineering
-      LLMs, RAG, LangChain
-      AI Agents & MCP
-      Claude & OpenAI APIs
-      Knowledge Graphs (Neo4j)
-    Learning
-      System Design
-      MLOps & AIOps
-      Scalable Architectures
-```
-
----
-
-## 🌟 Let's Connect & Collaborate!
-
-<div align="center">
-
-<a href="https://veergati.space" target="_blank"><img src="https://img.shields.io/badge/Veergati-%23FF9933.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Veergati" /></a>
-<a href="https://www.linkedin.com/in/-kartikjain/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://dev.to/kartikk26" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
-<a href="https://stackoverflow.com/users/20180670/kartik-jain" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kartikjain26" target="_blank"><img src="https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=Green" alt="GeeksforGeeks" /></a>
-<a href="https://www.codechef.com/users/kartikjain26" target="_blank"><img src="https://img.shields.io/badge/codechef-brown.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-<a href="https://www.hackerrank.com/profile/kartikjain2626" target="_blank"><img src="https://img.shields.io/badge/hackerrank-005B36.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://www.instagram.com/edits.kartikk" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
-<br><br>
-
-[![An image of @kartikk26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikk26)](https://holopin.io/@kartikk26)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Kartikk-26&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
-
-![Static Badge](https://img.shields.io/badge/Thanks%20For%20Visiting!-05122A)
-![GitHub Followers](https://img.shields.io/github/followers/Kartikk-26?style=flat&logo=github&color=05122A&labelColor=05122A&label=Followers)
 
 </div>

@@ -16,12 +16,22 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W = 480
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
 VAL_X = PAD + 92
 LINE_H = 20.5
+TOP_GAP = 30      # titlebar -> first row baseline
+BOTTOM_PAD = 14
+HOST_FONT = 14
+HOST_CHAR_W = 8.4  # monospace advance at HOST_FONT
+
+# Height follows the content: hardcoding it meant adding a row to profile_config
+# silently pushed the last line out through the bottom of the card.
+_lines = sum(1 for r in ROWS if r[0] != "gap")
+_gaps = sum(1 for r in ROWS if r[0] == "gap")
+H = int(TITLEBAR_H + TOP_GAP + _lines * LINE_H + _gaps * LINE_H * 0.5 + BOTTOM_PAD)
 
 BG = "#0d1117"
 BG2 = "#111722"
@@ -66,17 +76,21 @@ for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
 parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
              f'text-anchor="middle">{PROMPT_USER}@github: ~$ neofetch</text>')
 
-y = TITLEBAR_H + 30
+y = TITLEBAR_H + TOP_GAP
 for i, row in enumerate(ROWS):
     kind = row[0]
     if kind == "gap":
         y += LINE_H * 0.5
         continue
     if kind == "host":
-        inner = (f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
+        # the rule has to clear the WHOLE host string ("user" + "@" + "github"),
+        # not just the username, or it gets drawn straight through the text
+        host_chars = len(PROMPT_USER) + len("@github")
+        rule_x = KEY_X + host_chars * HOST_CHAR_W + 12
+        inner = (f'<text x="{KEY_X}" y="{y:.1f}" font-size="{HOST_FONT}" font-weight="700">'
                  f'<tspan fill="{GREEN}">{esc(PROMPT_USER)}</tspan><tspan fill="{MUTED}">@</tspan>'
                  f'<tspan fill="{ACCENT}">github</tspan></text>'
-                 f'<line x1="{KEY_X + 20 + len(PROMPT_USER)*8.4:.0f}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
+                 f'<line x1="{rule_x:.0f}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
                  f'stroke="{FRAME}" stroke-opacity="0.8"/>')
     elif kind == "sec":
         title = esc(row[1])

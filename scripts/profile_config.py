@@ -32,7 +32,8 @@ ACCOUNT_START_YEAR = 2022
 # ("gap",)           -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Now", "Founder & Lead Eng, Veergati Space"),
+    ("kv", "Now", "DevOps & AI Engineer"),
+    ("kv", "Founder", "Veergati Space (veergati.space)"),
     ("kv", "Also", "Software Engineer @ KVGAI Tech"),
     ("kv", "Core Team", "Anthropic Claude Builders Club"),
     ("kv", "Edu", "B.E. Computer Science Engineering"),
