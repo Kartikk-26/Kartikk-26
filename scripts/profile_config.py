@@ -36,7 +36,7 @@ ROWS = [
     ("kv", "Founder", "Veergati Space (veergati.space)"),
     ("kv", "Also", "Software Engineer @ KVGAI Tech"),
     ("kv", "Core Team", "Anthropic Claude Builders Club"),
-    ("kv", "Edu", "B.E. Computer Science Engineering"),
+    ("kv", "Edu", "B.Tech Computer Science Engineering"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Cloud", "AWS, GCP, Docker, Kubernetes"),
