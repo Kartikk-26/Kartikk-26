@@ -6,4 +6,4 @@
 pillow>=10.0.0
 numpy>=1.24.0
 opencv-python-headless>=4.8.0
-rembg>=2.0.50
+rembg[cpu]>=2.0.50   # the [cpu] extra pulls onnxruntime; bare rembg has no backend
