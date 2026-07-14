@@ -99,6 +99,8 @@ for i, row in enumerate(ROWS):
 
 parts.append("</svg>")
 svg = "".join(parts)
-with open(OUT, "w") as f:
+# encoding is explicit: Windows would otherwise default to cp1252 and write chars
+# like "·" as bytes no XML parser will accept as UTF-8, truncating the SVG.
+with open(OUT, "w", encoding="utf-8") as f:
     f.write(svg)
 print("wrote", OUT, len(svg), "bytes;", W, "x", H, "content_bottom", round(y))

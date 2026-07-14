@@ -170,7 +170,7 @@ if __name__ == "__main__":
     all_days = fetch_all_days()
     data = build_data(all_days)
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
-    with open(OUT_PATH, "w") as f:
+    with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
     print(f"wrote {OUT_PATH}: {data['total_contributions']:,} all-time contributions "
           f"({data['last_year_contributions']:,} in the last year), "

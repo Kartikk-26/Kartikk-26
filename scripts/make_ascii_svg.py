@@ -152,6 +152,6 @@ parts.append(f'<rect x="{cursor_x:.0f}" y="{status_y-12:.1f}" width="8" height="
 
 parts.append("</svg>")
 svg = "".join(parts)
-with open(OUT, "w") as f:
+with open(OUT, "w", encoding="utf-8") as f:
     f.write(svg)
 print("wrote", OUT, len(svg), "bytes;", CANVAS_W, "x", CANVAS_H)
