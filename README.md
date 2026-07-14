@@ -1,8 +1,11 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
-     panel. regenerate portrait: python scripts/prep_photo.py source-photo.jpg &&
-     python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py
+<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info panel.
+     regenerate portrait from a new photo:
+       python scripts/crop_face.py <photo> source-photo.jpg   # wide shots only
+       python scripts/prep_photo.py source-photo.jpg
+       python scripts/make_ascii_svg.py
+     info panel: python scripts/make_info_card.py
      all identity/bio content lives in scripts/profile_config.py -->
 <table>
 <tr>
