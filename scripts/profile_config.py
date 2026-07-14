@@ -33,7 +33,7 @@ ACCOUNT_START_YEAR = 2022
 ROWS = [
     ("host",),
     ("kv", "Now", "DevOps & AI Engineer"),
-    ("kv", "Founder", "Veergati Space (veergati.space)"),
+    ("kv", "Building", "Veergati Space — Founder & Lead Eng"),
     ("kv", "Also", "Software Engineer @ KVGAI Tech"),
     ("kv", "Core Team", "Anthropic Claude Builders Club"),
     ("kv", "Edu", "B.Tech Computer Science Engineering"),
@@ -46,6 +46,6 @@ ROWS = [
     ("kv", "Frontend", "Next.js, React, TypeScript"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Veergati — honouring India's soldiers"),
+    ("bul", "Veergati Space — honouring India's soldiers"),
     ("bul", "Hacktoberfest 2025 Super Contributor"),
 ]

@@ -9,7 +9,11 @@
      all identity/bio content lives in scripts/profile_config.py -->
 <table>
 <tr>
-<td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Kartik Jain — ASCII portrait" /></td>
+<!-- widths are tuned so BOTH cards render to the same height (~410px) and their
+     bottoms line up: portrait is 840x875 (aspect 1.0417), card is 480x402
+     (0.8375). 394*1.0417 == 490*0.8375. Re-derive these if either SVG's
+     intrinsic size changes -- e.g. adding a row to ROWS grows the card. -->
+<td valign="top"><img src="./ascii-portrait.svg" width="394" alt="Kartik Jain — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Kartik Jain — role, stack, highlights" /></td>
 </tr>
 </table>
