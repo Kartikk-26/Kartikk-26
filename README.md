@@ -16,9 +16,9 @@
 
 ## Kartik Jain
 
-**DevOps Engineer · GenAI Backend Builder**
+**DevOps & AI Engineer · Founder, [Veergati Space](https://veergati.space)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kartikjain.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikjain.vercel.app/)
+[![Veergati](https://img.shields.io/badge/Veergati-veergati.space-FF9933?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://veergati.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikjain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-kartikjain/)
 [![Twitter](https://img.shields.io/badge/Twitter-kartikk__26-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kartikk_26)
 [![Instagram](https://img.shields.io/badge/Instagram-edits.kartikk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edits.kartikk)
@@ -34,12 +34,59 @@
 
 ---
 
+## 🇮🇳 Veergati — Honouring India's Brave Soldiers
+
+I'm the founder of **[Veergati Space](https://veergati.space)**, a digital memorial to the soldiers and
+officers of the Indian Armed Forces who gave everything for the nation.
+
+Veergati remembers each of them on **their own day** — the day they were born, and the day they became
+immortal — through a daily **Wall of Honour**, verified biographies, a remembrance calendar, and an AI
+assistant. Building it is my responsibility towards the nation.
+
+> **[The story behind it →](https://veergati.space/founder)**
+
+Under the hood: **Next.js · FastAPI · PostgreSQL · Docker · Kubernetes · Jenkins**, with an automated
+daily pipeline that ingests, validates, enriches and publishes soldier profiles from trusted sources
+to the Wall of Honour.
+
+---
+
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **DevOps automation** and **GenAI-powered backends**
-- 🌱 Learning **System Design**, **MLOps & AIOps**, and scalable architectures
-- ❓ Ask me about **DevOps, Cloud, Web Development, Problem Solving**
+By profession I'm a **DevOps & AI Engineer**. I automate deployment pipelines, manage cloud
+infrastructure and keep systems scalable with **Linux, Docker, Kubernetes, Ansible, Jenkins and AWS**.
+I'm also a full-stack developer (**MERN + Next.js**) who bakes DevOps practices in from the start.
+
+- 🔭 Building **Veergati Space** — a national remembrance mission
+- 💼 **Software Engineer @ KVGAI Tech** — AI platforms, microservices, cloud infra
+- 🤖 **Core Team, Anthropic Claude Builders Club** @ BITS Pilani
+- 🎓 Pursuing a degree in **Computer Science Engineering**
+- 🏆 **Hacktoberfest 2025 Super Contributor** · 2★ CodeChef · 3★ HackerRank
+- ❓ Ask me about **DevOps, Cloud, AI Agents, Problem Solving**
 - ⚡ Fun fact: every time I `git pull`, there is a conflict
+
+---
+
+## 💼 Experience
+
+**Founder & Lead Engineer** — *Veergati Space* · Nov 2025 – Present
+- Lead product vision, architecture, development, deployment, infrastructure and long-term platform strategy
+- Architected a production-grade platform (Next.js, FastAPI, PostgreSQL, Docker, Kubernetes) for a scalable, highly available digital memorial
+- Built CI/CD pipelines with Jenkins for continuous integration, testing and zero-downtime deployments
+- Engineered async FastAPI services with optimized PostgreSQL queries and production-ready REST APIs
+- Orchestrated multi-stage Docker builds on Kubernetes with health checks, autoscaling and rolling deployments
+
+**Software Engineer** — *KVGAI Tech* · Aug 2025 – Present
+- Architected and deployed **Civic-Info**, a 3-service FastAPI microservices system serving U.S. elected-official data nationwide (JWT/OTP auth, WebSocket discussions, Shapely geo district lookup)
+- Engineered the AI automation pipeline end-to-end — scraping/ETL on Supabase/PostgreSQL with 3-tier Redis caching, Kafka messaging, and Gemini for auto-generated bios and news summaries
+- Built a production AI agent on Google Cloud Gemini wired to a Cloud Run MCP tools layer, Supabase and Vertex AI RAG — grounded, source-cited answers, no hallucinations
+- Delivered a **Claude + Neo4j knowledge-graph engine (Graphiti)** with caching that cut LLM costs **40–60%**; presented agentic protocols (MCP, A2A, Agent-to-UI) to 150+ BITS Pilani students
+- Dockerized and deployed **Smart Paper Check** (FastAPI + Celery + Redis, multi-LLM) on AWS/Railway/GCP — **10–50× speedups** via N+1 fixes and multi-worker scaling
+
+**Software Engineer Intern** — *BITS Pilani* · Apr 2025 – Aug 2025
+- Built the backend for an AI sales-funnel product that auto-generates product images and a complete landing page from product details
+- Integrated a payment gateway with automatic inventory deduction and reseller settlement — an end-to-end checkout flow
+- Deployed to production on GCP and AWS
 
 ---
 
@@ -124,22 +171,26 @@
 }}}%%
 mindmap
   root((Kartik's Techverse))
+    Veergati Space
+      Wall of Honour
+      Daily Data Pipeline
+      Verified Biographies
+      AI Assistant
     DevOps Engineering
-      CI/CD Pipelines
-      Infrastructure as Code
+      CI/CD with Jenkins
       Docker & Kubernetes
-      Cloud Deployment (AWS, Vercel)
-      Monitoring & Automation
-    GenAI Backend
-      LLM Integrations
-      API Workflows
-      Prompt Engineering
-      AI-Powered Tools
+      Linux, Ansible, HAProxy
+      AWS (EC2, VPC, S3, Route 53)
+      Monitoring & Autoscaling
+    AI Engineering
+      LLMs, RAG, LangChain
+      AI Agents & MCP
+      Claude & OpenAI APIs
+      Knowledge Graphs (Neo4j)
     Learning
       System Design
       MLOps & AIOps
       Scalable Architectures
-      Open Source Projects
 ```
 
 ---
@@ -148,7 +199,7 @@ mindmap
 
 <div align="center">
 
-<a href="https://kartikjain.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://veergati.space" target="_blank"><img src="https://img.shields.io/badge/Veergati-%23FF9933.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Veergati" /></a>
 <a href="https://www.linkedin.com/in/-kartikjain/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://dev.to/kartikk26" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
 <a href="https://stackoverflow.com/users/20180670/kartik-jain" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>

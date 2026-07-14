@@ -14,7 +14,7 @@ Regenerate after editing:
 # ---- identity -------------------------------------------------------------
 GITHUB_USER = "Kartikk-26"
 FULL_NAME = "Kartik Jain"
-TAGLINE = "DevOps Engineer · GenAI Backend Builder"
+TAGLINE = "DevOps & AI Engineer · Founder, Veergati Space"
 
 # shell prompt shown in each terminal-style SVG titlebar ("<PROMPT_USER>@github")
 PROMPT_USER = "kartik"
@@ -32,19 +32,19 @@ ACCOUNT_START_YEAR = 2022
 # ("gap",)           -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Now", "DevOps Engineer"),
-    ("kv", "Focus", "CI/CD, IaC, GenAI Backends"),
-    ("kv", "Learning", "System Design, MLOps & AIOps"),
-    ("kv", "Ask me", "DevOps, Cloud, Problem Solving"),
+    ("kv", "Now", "Founder & Lead Eng, Veergati Space"),
+    ("kv", "Also", "Software Engineer @ KVGAI Tech"),
+    ("kv", "Core Team", "Anthropic Claude Builders Club"),
+    ("kv", "Edu", "B.E. Computer Science Engineering"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Cloud", "AWS, GCP, Docker, Kubernetes"),
-    ("kv", "DevOps", "Terraform, Ansible, Jenkins, Linux"),
-    ("kv", "AI / ML", "LangChain, OpenAI, Claude, HF"),
-    ("kv", "Backend", "Node, Python, FastAPI, MongoDB"),
-    ("kv", "Frontend", "React, TypeScript, Tailwind"),
+    ("kv", "DevOps", "Jenkins, Ansible, Linux, CI/CD"),
+    ("kv", "AI / ML", "LLMs, RAG, LangChain, Claude"),
+    ("kv", "Backend", "FastAPI, Node, PostgreSQL, Redis"),
+    ("kv", "Frontend", "Next.js, React, TypeScript"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Building AI-powered DevOps tooling"),
-    ("bul", "Open source contributor · Holopin badges"),
+    ("bul", "Veergati — honouring India's soldiers"),
+    ("bul", "Hacktoberfest 2025 Super Contributor"),
 ]
