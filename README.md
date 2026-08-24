@@ -23,7 +23,7 @@
 <!-- keep this ONE line and plain text: a hyperlink here renders blue+underlined
      and the extra width wraps it onto two lines on a phone. ~45 chars is the
      mobile limit at this font size. -->
-**DevOps & AI Engineer · Building Veergati**
+**AI DevOps Engineer · Building Veergati**
 
 <!-- LinkedIn's logo is passed as a base64 data URI on purpose: simple-icons
      dropped the LinkedIn glyph (trademark), so `logo=linkedin` silently renders
