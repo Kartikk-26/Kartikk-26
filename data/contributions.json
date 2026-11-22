@@ -1,12 +1,12 @@
 {
   "username": "Kartikk-26",
-  "generated_at": "2026-11-21T18:00:41Z",
+  "generated_at": "2026-11-22T14:30:57Z",
   "range": {
     "start": "2022-10-07",
-    "end": "2026-11-21"
+    "end": "2026-11-22"
   },
-  "total_contributions": 4446,
-  "last_year_contributions": 2846,
+  "total_contributions": 4447,
+  "last_year_contributions": 2840,
   "active_days": 1021,
   "avg_per_active_day": 4.4,
   "current_streak": {
@@ -222,42 +222,14 @@
     },
     {
       "month": "2026-11",
-      "total": 863
+      "total": 864
     }
   ],
   "grid_range": {
-    "start": "2025-11-09",
-    "end": "2026-11-21"
+    "start": "2025-11-16",
+    "end": "2026-11-22"
   },
   "days": [
-    {
-      "date": "2025-11-09",
-      "count": 1
-    },
-    {
-      "date": "2025-11-10",
-      "count": 1
-    },
-    {
-      "date": "2025-11-11",
-      "count": 1
-    },
-    {
-      "date": "2025-11-12",
-      "count": 1
-    },
-    {
-      "date": "2025-11-13",
-      "count": 1
-    },
-    {
-      "date": "2025-11-14",
-      "count": 1
-    },
-    {
-      "date": "2025-11-15",
-      "count": 1
-    },
     {
       "date": "2025-11-16",
       "count": 1
@@ -1740,7 +1712,11 @@
     },
     {
       "date": "2026-11-21",
-      "count": 2
+      "count": 3
+    },
+    {
+      "date": "2026-11-22",
+      "count": 0
     }
   ]
 }
